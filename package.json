@@ -1,0 +1,15 @@
+{
+  "name": "json-google-translate",
+  "version": "0.0.1",
+  "bin": {
+    "jgt": "index.js"
+  },
+  "description": "application should work once the API key stops breaking",
+  "main": "index.js",
+  "author": "Orion Nye",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.1"
+  }
+}

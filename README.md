@@ -1,2 +1,2 @@
 # json-google-translate
-JSON language translator, this time without credentials
+Uses Google's translate API to translate JSON files.
