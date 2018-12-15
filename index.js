@@ -63,8 +63,3 @@ Usage:
             })
     }
 }
-
-//  TODO: name this thing something you like.
-//  check NPM to see that the name is available.
-//  publish this to NPM
-//  also, and first, create a repository and check this into the repository on github
